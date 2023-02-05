@@ -2,11 +2,11 @@
 Introduction to oneself 
 App Description
 TODO:// Add app description
-This is introduction app which says about students and their interest on having pets.
+This is introduction app which says about students and their interest on having pets. It is done as shown in pre work by codepath. Thank you codepath for giving me oppotunity to learn.
 
 App Walk-though
-<img src='   '                                     
-
+<iframe src="https://giphy.com/embed/6VwYQyvCZzKFaNtwe0" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6VwYQyvCZzKFaNtwe0">via GIPHY</a></p>  '                                     
+//GIF UPLOADED WITH GIPHY
  
 
 TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
