@@ -1,5 +1,5 @@
 # Codepath-Prework
-Introduction to oneself 
+// Hey I'm Kripa Lamichhane. I'm Freshman in Bryn Mawr College. I want to learn via Codepath and utilize most of it. Also, interesting fact, I'm from Nepal and I love momo. I'm interested in IOS app development.
 App Description
 TODO:// Add app description
 This is introduction app which says about students and their interest on having pets. It is done as shown in pre work by codepath. Thank you codepath for giving me oppotunity to learn.
